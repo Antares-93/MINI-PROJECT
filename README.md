@@ -35,7 +35,7 @@ Karena ini adalah proyek PHP murni, Membutuhkan *local server* (seperti XAMPP, M
 4. Akses proyek melalui URL lokal, contoh: 
    `http://localhost/nama-folder-proyek/index.php`
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - **PHP 8.x** (Kompatibel dengan versi 7.4+)
 - **HTML5 & CSS3** (Untuk struktur dan *styling* antarmuka)
